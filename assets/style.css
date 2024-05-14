@@ -1,0 +1,51 @@
+html {
+	background: linear-gradient(177.52deg, #400547 2.11%, #19021b 81.34%);
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	min-height: 100vh;
+	background: url("/imagens/markets.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h2,
+footer {
+	font-family: 'Verdana';
+}
+
+button {
+	border: none;
+}
+
+button:hover {
+	border: none;
+	background-color: #cacaca;
+}
+
+.has-text-link {
+	color: #400547 !important;
+}
+
+.itens-comprados {
+	text-decoration: line-through;
+}
+
+.borda-lista {
+	border-bottom: dotted 2px #400547;
+}
+
+input:disabled {
+	border: none;
+	background: none;
+	color: black;
+}
+
+input {
+	border: none;
+	background: none;
+	color: black;
+}
