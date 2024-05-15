@@ -9,6 +9,8 @@
 - **CSS**: Para estilização.
 - **HTML**: Linguagem de marcação.
 
+### LINK PARA ACESSAR O SITE = https://peppy-wisp-b78642.netlify.app/
+
 # WEB
 ![image](https://github.com/eduardoaalmeidaa/ListaDeCompras/assets/89856553/2296f60c-109e-4027-9800-26f42cd28a92)
 
